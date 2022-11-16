@@ -1,0 +1,1 @@
+En esta carpeta se concentrara todas las interraciones que tendremos con Mysql ( Esta por definirse cual sera su implementacion en el projecto)
